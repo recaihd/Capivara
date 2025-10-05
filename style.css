@@ -1,4 +1,6 @@
-
+* {
+  text-decoration: none;
+}
 /* Estilização geral */
 body {
   margin: 0;
